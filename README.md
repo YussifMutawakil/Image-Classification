@@ -13,5 +13,13 @@ This project performs image classification using machine learning techniques.
 ## Author
 Yussif Mutawakil
 
-![Preview](cow.jpg)
+![Preview](cow.jpg)<br>
+
+![Preview](Confidence.png)<br>
+
+![Preview](download.webp)<br>
+
+![Preview](Scanning.png)<br>
+
+![Preview](scanned_bird.png)
 
